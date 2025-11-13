@@ -147,7 +147,7 @@ news_scraper/
         "client_secret": "YOUR_CLIENT_SECRET",
         "window_geometry": "..."
     },
-    "tabs": ["방심위", "과방위", "인공지능"]
+    "tabs": ["네이버", "다음", "인공지능"]
 }
 ```
 
