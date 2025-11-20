@@ -2,6 +2,8 @@
 
 네이버 뉴스 API를 활용한 실시간 뉴스 검색 및 관리 데스크톱 애플리케이션입니다.
 
+Claude Sonnet 4.5 및 Gemini 2.5 Pro 및 3.0 Pro를 이용하여 작성하였고, 지속 수정중입니다.
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyQt6](https://img.shields.io/badge/PyQt6-6.0+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
